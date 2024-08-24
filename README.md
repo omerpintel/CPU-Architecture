@@ -3,10 +3,11 @@ Participants: Romi Lustig & Omer Pintel
 
 ----------------------------------
 
-This Git includes 2 directories:
+This Git includes 3 directories:
 1. Concurrent_Codes
 2. Sequential_Codes
-Both will be explained further.
+3. Multi - Cycle Digital System
+All will be explained further.
 
 ----------------------------------
 Concurrent_Codes:
@@ -25,6 +26,11 @@ Includes 3 .vhd files (no TB included), 2 files were already given. This module 
 2. top - top module. We were asked to write the architecture, using processes.
 3. Adder - adder module, was given to us.
 
+----------------------------------
+Multi-Cycle:
+Includes all .vhd files (no TB included). Includes two main sub-modules in the digital system:
+1. Control Unit
+2. Datapath Unit (has a few sub-modules within the unit)
 ----------------------------------
 
 Enjoy!
