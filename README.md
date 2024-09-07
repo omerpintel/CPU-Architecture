@@ -3,11 +3,12 @@ Participants: Romi Lustig & Omer Pintel
 
 ----------------------------------
 
-This Git includes 3 directories:
+This Git includes 4 directories:
 1. Concurrent_Codes
 2. Sequential_Codes
 3. Multi - Cycle Digital System
-All will be explained further.
+4. FINAL PROJECT
+Final Project combines what I've learned throughout all labs & has its own readme.txt file. All other directories will be explained further.
 
 ----------------------------------
 Concurrent_Codes:
